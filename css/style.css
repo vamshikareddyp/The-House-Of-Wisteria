@@ -452,3 +452,14 @@ section{
     padding:50px 6%;
 }
 }
+.about-home{
+    max-width:1000px;
+    margin:auto;
+    text-align:center;
+}
+
+.about-home p{
+    margin:20px 0;
+    font-size:18px;
+    line-height:1.8;
+}
